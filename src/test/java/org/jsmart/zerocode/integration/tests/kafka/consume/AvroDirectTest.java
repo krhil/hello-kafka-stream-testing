@@ -40,4 +40,8 @@ public class AvroDirectTest {
             e.printStackTrace();
         }
     }
+
+    public void testAvro(){
+        
+    }
 }
