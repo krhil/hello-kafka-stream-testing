@@ -28,4 +28,6 @@ public class KafkaConsumeAvroTest {
     public void testKafkaConsume_avroRawJson() throws Exception {
     }
 
+    public void test(){}
+
 }
